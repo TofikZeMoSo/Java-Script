@@ -1,0 +1,16 @@
+
+
+menuItems = [
+
+    { "item_name": "Biryani", "price": 750, "cuisineType": "Mughlai" },
+   { "item_name": "Fried Rice", "price": 450, "cuisineType": "Chinese" },
+   { "item_name": "Chicken Noodles", "price": 550, "cuisineType": "Chinese" },
+   { "item_name": "Pasta", "price": 950, "cuisineType": "Spanish" },
+   { "item_name": "Mandi", "price": 150, "cuisineType": "Arab" },
+   { "item_name": "Tikka Masala", "price": 250, "cuisineType": "Indian" },
+   {"item_name":  "PASTA", "price": 50, "cuisineType": "Italian"},
+   {"item_name":  "Chai", "price": 10, "cuisineType": "Indian"},
+
+]
+
+
